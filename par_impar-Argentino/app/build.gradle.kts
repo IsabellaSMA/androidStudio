@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.par_impar_argentino"
+    namespace = "com.example.myapplication"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,8 +11,8 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.par_impar_argentino"
-        minSdk = 24
+        applicationId = "com.example.myapplication"
+        minSdk = 27
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"

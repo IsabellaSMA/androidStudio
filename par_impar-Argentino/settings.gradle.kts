@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "par_impar-Argentino"
+rootProject.name = "My Application"
 include(":app")
  

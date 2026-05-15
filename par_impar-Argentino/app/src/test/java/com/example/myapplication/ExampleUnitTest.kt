@@ -1,4 +1,4 @@
-package com.example.par_impar_argentino
+package com.example.myapplication
 
 import org.junit.Test
 
